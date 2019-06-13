@@ -1,6 +1,6 @@
 {
-    "name": "crocodicstudio/crudbooster",
-    "description": "CRUDBooster Is CRUD Generator Based On Laravel Easy To Make An Advanced Backend",
+    "name": "nimesh143/crudbooster",
+    "description": "CRUDBooster Is CRUD Generator Based On Laravel Easy To Make An Advanced Backend forked from crudbooster",
     "type": "project",
     "license": "MIT",
     "keywords":[
@@ -14,8 +14,8 @@
     ],
     "authors": [
         {
-            "name": "Ferry",
-            "email": "ferry@crocodic.com"
+            "name": "Nimesh",
+            "email": "n.b.patel14@gmail.com"
         }
     ],
     "minimum-stability": "dev",
