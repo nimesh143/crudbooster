@@ -1725,7 +1725,7 @@ class CBController extends Controller
 
         $row = DB::table($this->table)->where($this->primary_key, $id)->first();
 
-        $file = str_replace('uploads/', '', $row->{$column});
+        $file = $row->{$column};
         if (Storage::exists($file)) {
             Storage::delete($file);
         }
